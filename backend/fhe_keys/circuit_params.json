@@ -1,0 +1,20 @@
+{
+  "scale": 100,
+  "max_num_val": 6584259,
+  "max_patient_id": 2300,
+  "rng_seed": 42,
+  "num_inputset_random_count": 300,
+  "str_inputset_random_count": 300,
+  "str_max_lens": {
+    "name": 16,
+    "age_category": 8,
+    "diagnosis": 40,
+    "ward": 15
+  },
+  "cost_fields": ["cost_services", "cost_hospitalization", "cost_meds", "cost_meals"],
+  "bool_fields": ["died"],
+  "id_fields": ["patient_id"],
+  "num_fields": ["cost_services", "cost_hospitalization", "cost_meds", "cost_meals", "died", "patient_id"],
+  "str_fields": ["name", "age_category", "diagnosis", "ward"]
+}
+

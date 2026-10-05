@@ -1,0 +1,21 @@
+{
+  "scale": 100,
+  "max_amount_cents": 25298493,
+  "rng_seed": 42,
+  "num_inputset_random_count": 300,
+  "str_inputset_random_count": 300,
+  "str_max_lens": {
+    "description": 42,
+    "expense_type": 11
+  },
+  "num_fields": [
+    "amount"
+  ],
+  "str_fields": [
+    "description",
+    "expense_type"
+  ],
+  "plain_fields": [
+    "expense_date"
+  ]
+}

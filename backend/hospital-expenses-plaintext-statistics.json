@@ -1,0 +1,325 @@
+{
+  "2023": {
+    "general": {
+      "equipment": 22032.5,
+      "medicine": 5193.69,
+      "personnel": 7924.1,
+      "renovations": 65168.84,
+      "supplies": 2692.94
+    },
+    "Jan": {
+      "equipment": 12343.89,
+      "medicine": 4860.47,
+      "personnel": 9473.8,
+      "renovations": 40574.66,
+      "supplies": 4406.94
+    },
+    "Feb": {
+      "equipment": 6758.79,
+      "medicine": 8277.02,
+      "personnel": 5672.02,
+      "renovations": 79414.97,
+      "supplies": 2332.24
+    },
+    "Mar": {
+      "equipment": 22186.51,
+      "medicine": 5447.05,
+      "personnel": 8365.2,
+      "renovations": 111185.93,
+      "supplies": 2697.92
+    },
+    "Apr": {
+      "equipment": 16865.25,
+      "medicine": 5339.0,
+      "personnel": 8264.6,
+      "renovations": 91303.34,
+      "supplies": 5991.61
+    },
+    "May": {
+      "equipment": 17125.3,
+      "medicine": 5240.38,
+      "personnel": 7677.67,
+      "renovations": 38705.98,
+      "supplies": 3532.02
+    },
+    "Jun": {
+      "equipment": 19104.42,
+      "medicine": 4268.66,
+      "personnel": 7718.17,
+      "renovations": 99760.27,
+      "supplies": 1628.8
+    },
+    "Jul": {
+      "equipment": 17680.98,
+      "medicine": 4954.56,
+      "personnel": 4478.5,
+      "renovations": 28916.67,
+      "supplies": 1925.37
+    },
+    "Aug": {
+      "equipment": 35102.28,
+      "medicine": 2749.27,
+      "personnel": 8362.71,
+      "renovations": 133807.78,
+      "supplies": 1205.52
+    },
+    "Sep": {
+      "equipment": 35350.54,
+      "medicine": 5245.19,
+      "personnel": 8093.55,
+      "renovations": 91477.52,
+      "supplies": 1838.48
+    },
+    "Oct": {
+      "equipment": 22825.42,
+      "medicine": 2584.36,
+      "personnel": 9539.75,
+      "renovations": 34552.33,
+      "supplies": 1983.78
+    },
+    "Nov": {
+      "equipment": 35363.19,
+      "medicine": 6485.48,
+      "personnel": 9571.2,
+      "renovations": 29234.92,
+      "supplies": 4040.47
+    },
+    "Dec": {
+      "equipment": 29548.06,
+      "medicine": 4974.99,
+      "personnel": 5365.27,
+      "renovations": 14786.63,
+      "supplies": 2104.72
+    }
+  },
+  "2024": {
+    "general": {
+      "equipment": 20510.2,
+      "medicine": 5442.72,
+      "personnel": 7378.3,
+      "renovations": 49144.93,
+      "supplies": 2713.93
+    },
+    "Jan": {
+      "equipment": 11303.83,
+      "medicine": 3867.79,
+      "personnel": 7401.61,
+      "renovations": 32243.29,
+      "supplies": 1285.72
+    },
+    "Feb": {
+      "equipment": 34001.43,
+      "medicine": 9373.45,
+      "personnel": 8907.55,
+      "renovations": 47667.88,
+      "supplies": 4005.84
+    },
+    "Mar": {
+      "equipment": 14857.03,
+      "medicine": 3001.91,
+      "personnel": 7361.66,
+      "renovations": 51660.72,
+      "supplies": 2342.36
+    },
+    "Apr": {
+      "equipment": 15634.8,
+      "medicine": 3594.78,
+      "personnel": 6704.53,
+      "renovations": 14118.64,
+      "supplies": 3277.87
+    },
+    "May": {
+      "equipment": 29196.05,
+      "medicine": 3254.43,
+      "personnel": 8472.99,
+      "renovations": 40534.03,
+      "supplies": 3123.31
+    },
+    "Jun": {
+      "equipment": 11953.29,
+      "medicine": 14565.07,
+      "personnel": 8020.82,
+      "renovations": 86749.7,
+      "supplies": 1516.91
+    },
+    "Jul": {
+      "equipment": 14186.86,
+      "medicine": 5134.88,
+      "personnel": 6295.57,
+      "renovations": 38339.6,
+      "supplies": 4780.41
+    },
+    "Aug": {
+      "equipment": 8804.11,
+      "medicine": 3272.53,
+      "personnel": 5437.33,
+      "renovations": 35288.69,
+      "supplies": 2958.01
+    },
+    "Sep": {
+      "equipment": 22942.29,
+      "medicine": 2571.09,
+      "personnel": 7523.65,
+      "renovations": 84025.87,
+      "supplies": 2184.15
+    },
+    "Oct": {
+      "equipment": 16035.55,
+      "medicine": 2659.45,
+      "personnel": 7691.95,
+      "renovations": 26067.75,
+      "supplies": 1078.44
+    },
+    "Nov": {
+      "equipment": 29553.49,
+      "medicine": 11135.39,
+      "personnel": 7766.62,
+      "renovations": 42199.39,
+      "supplies": 1723.33
+    },
+    "Dec": {
+      "equipment": 32045.15,
+      "medicine": 8173.67,
+      "personnel": 6622.27,
+      "renovations": 96508.4,
+      "supplies": 4465.61
+    }
+  },
+  "2025": {
+    "general": {
+      "equipment": 21098.85,
+      "medicine": 7625.42,
+      "personnel": 7603.7,
+      "renovations": 53273.02,
+      "supplies": 2981.01
+    },
+    "Jan": {
+      "equipment": 14767.13,
+      "medicine": 10794.18,
+      "personnel": 8197.4,
+      "renovations": 40084.79,
+      "supplies": 3151.57
+    },
+    "Feb": {
+      "equipment": 18956.29,
+      "medicine": 9364.74,
+      "personnel": 5540.21,
+      "renovations": 39869.61,
+      "supplies": 8138.8
+    },
+    "Mar": {
+      "equipment": 20696.3,
+      "medicine": 3625.69,
+      "personnel": 6730.4,
+      "renovations": 35030.27,
+      "supplies": 3048.48
+    },
+    "Apr": {
+      "equipment": 16104.16,
+      "medicine": 14035.0,
+      "personnel": 7325.88,
+      "renovations": 43926.4,
+      "supplies": 1710.67
+    },
+    "May": {
+      "equipment": 13836.79,
+      "medicine": 5394.46,
+      "personnel": 10770.54,
+      "renovations": 59137.5,
+      "supplies": 3582.42
+    },
+    "Jun": {
+      "equipment": 29555.5,
+      "medicine": 8655.77,
+      "personnel": 7282.85,
+      "renovations": 104813.11,
+      "supplies": 4247.79
+    },
+    "Jul": {
+      "equipment": 8951.99,
+      "medicine": 4659.96,
+      "personnel": 8148.63,
+      "renovations": 57424.96,
+      "supplies": 796.05
+    },
+    "Aug": {
+      "equipment": 16671.44,
+      "medicine": 12712.41,
+      "personnel": 6883.94,
+      "renovations": 27566.72,
+      "supplies": 2554.14
+    },
+    "Sep": {
+      "equipment": 15042.11,
+      "medicine": 6559.24,
+      "personnel": 8816.97,
+      "renovations": 5355.29,
+      "supplies": 2603.1
+    },
+    "Oct": {
+      "equipment": 47320.98,
+      "medicine": 4130.23,
+      "personnel": 5323.74,
+      "renovations": 126363.61,
+      "supplies": 4327.52
+    },
+    "Nov": {
+      "equipment": 26656.09,
+      "medicine": 3046.24,
+      "personnel": 8269.15,
+      "renovations": 26227.76,
+      "supplies": 2222.68
+    },
+    "Dec": {
+      "equipment": 38446.32,
+      "medicine": 11668.32,
+      "personnel": 6224.79,
+      "renovations": 53581.86,
+      "supplies": 3337.16
+    }
+  },
+  "2026": {
+    "general": {
+      "equipment": 22922.19,
+      "medicine": 5928.87,
+      "personnel": 6641.25,
+      "renovations": 72567.57,
+      "supplies": 2395.51
+    },
+    "Jan": {
+      "equipment": 19707.93,
+      "medicine": 5047.13,
+      "personnel": 8333.48,
+      "renovations": 88676.21,
+      "supplies": 1557.53
+    },
+    "Feb": {
+      "equipment": 23529.87,
+      "medicine": 3644.07,
+      "personnel": 5815.43,
+      "renovations": 4369.44,
+      "supplies": 1758.37
+    },
+    "Mar": {
+      "equipment": 15094.34,
+      "medicine": 9186.48,
+      "personnel": 7276.78,
+      "renovations": 32145.19,
+      "supplies": 4272.82
+    },
+    "Apr": {
+      "equipment": null,
+      "medicine": 3931.92,
+      "personnel": 4316.8,
+      "renovations": null,
+      "supplies": 1848.0
+    },
+    "May": {
+      "equipment": 31981.37,
+      "medicine": 6601.45,
+      "personnel": 7570.49,
+      "renovations": 93719.66,
+      "supplies": 2337.65
+    }
+  }
+}

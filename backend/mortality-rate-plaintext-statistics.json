@@ -1,0 +1,1000 @@
+{
+  "2023": {
+    "general": {
+      "icu": {
+        "under 18": 20.0,
+        "18 to 65": 11.67,
+        "over 65": 11.11
+      },
+      "er": {
+        "under 18": 4.65,
+        "18 to 65": 0.55,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 1.96
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 2.13,
+        "over 65": 0.0
+      }
+    },
+    "Jan": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 33.33,
+        "over 65": 25.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Feb": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 16.67
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 7.14,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Mar": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 50.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 6.9,
+        "over 65": 0.0
+      }
+    },
+    "Apr": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 4.76,
+        "over 65": 0.0
+      }
+    },
+    "May": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 25.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 7.69,
+        "over 65": 0.0
+      }
+    },
+    "Jun": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 12.5,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Jul": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 100.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Aug": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 100.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 3.23,
+        "over 65": 0.0
+      }
+    },
+    "Sep": {
+      "icu": {
+        "under 18": 50.0,
+        "18 to 65": 20.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Oct": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 16.67,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Nov": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 14.29,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Dec": {
+      "icu": {
+        "under 18": 50.0,
+        "18 to 65": 0.0,
+        "over 65": 50.0
+      },
+      "er": {
+        "under 18": 14.29,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 20.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    }
+  },
+  "2024": {
+    "general": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 13.16,
+        "over 65": 5.71
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 2.33
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 3.46,
+        "over 65": 0.91
+      }
+    },
+    "Jan": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 4.35,
+        "over 65": 0.0
+      }
+    },
+    "Feb": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 14.29,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 10.0,
+        "over 65": 0.0
+      }
+    },
+    "Mar": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 25.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 9.09,
+        "over 65": 0.0
+      }
+    },
+    "Apr": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 33.33,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 4.55,
+        "over 65": 0.0
+      }
+    },
+    "May": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 16.67,
+        "over 65": 20.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 4.35,
+        "over 65": 0.0
+      }
+    },
+    "Jun": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 28.57,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Jul": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Aug": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 25.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 4.35,
+        "over 65": 0.0
+      }
+    },
+    "Sep": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 50.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Oct": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 33.33,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 2.7,
+        "over 65": 0.0
+      }
+    },
+    "Nov": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 12.5,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Dec": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 7.14,
+        "over 65": 7.69
+      }
+    }
+  },
+  "2025": {
+    "general": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 12.94,
+        "over 65": 8.7
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 2.04
+      },
+      "hospitalization": {
+        "under 18": 1.82,
+        "18 to 65": 1.79,
+        "over 65": 2.7
+      }
+    },
+    "Jan": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 15.38,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 3.57,
+        "over 65": 0.0
+      }
+    },
+    "Feb": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 25.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 20.0,
+        "18 to 65": 0.0,
+        "over 65": 9.09
+      }
+    },
+    "Mar": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 14.29
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 3.85,
+        "over 65": 0.0
+      }
+    },
+    "Apr": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 10.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "May": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 22.22,
+        "over 65": 16.67
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Jun": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 50.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 7.69
+      }
+    },
+    "Jul": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 25.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 16.67
+      }
+    },
+    "Aug": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": null
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": null
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Sep": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Oct": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Nov": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 33.33
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 4.0,
+        "over 65": 0.0
+      }
+    },
+    "Dec": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 100.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 11.76,
+        "over 65": 0.0
+      }
+    }
+  },
+  "2026": {
+    "general": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 21.43,
+        "over 65": 15.38
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.99,
+        "over 65": 5.41
+      }
+    },
+    "Jan": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 25.0,
+        "over 65": 25.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": null,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 12.5
+      }
+    },
+    "Feb": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 11.11,
+        "over 65": 25.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 9.09
+      }
+    },
+    "Mar": {
+      "icu": {
+        "under 18": null,
+        "18 to 65": 50.0,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    },
+    "Apr": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": null
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 5.26,
+        "over 65": 0.0
+      }
+    },
+    "May": {
+      "icu": {
+        "under 18": 0.0,
+        "18 to 65": 33.33,
+        "over 65": 0.0
+      },
+      "er": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "surgery": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      },
+      "hospitalization": {
+        "under 18": 0.0,
+        "18 to 65": 0.0,
+        "over 65": 0.0
+      }
+    }
+  }
+}

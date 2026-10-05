@@ -1,0 +1,286 @@
+{
+  "2023": {
+    "general": {
+      "services": 2431.16,
+      "hospitalization": 3725.9,
+      "meds": 748.44,
+      "meals": 86.27
+    },
+    "Jan": {
+      "services": 2680.77,
+      "hospitalization": 1863.41,
+      "meds": 401.2,
+      "meals": 55.61
+    },
+    "Feb": {
+      "services": 2828.31,
+      "hospitalization": 4988.29,
+      "meds": 1005.8,
+      "meals": 95.83
+    },
+    "Mar": {
+      "services": 1982.99,
+      "hospitalization": 2643.92,
+      "meds": 494.86,
+      "meals": 80.82
+    },
+    "Apr": {
+      "services": 2183.57,
+      "hospitalization": 4081.64,
+      "meds": 781.2,
+      "meals": 94.44
+    },
+    "May": {
+      "services": 2279.27,
+      "hospitalization": 4263.2,
+      "meds": 940.24,
+      "meals": 82.75
+    },
+    "Jun": {
+      "services": 2222.06,
+      "hospitalization": 2461.13,
+      "meds": 461.81,
+      "meals": 70.76
+    },
+    "Jul": {
+      "services": 2596.14,
+      "hospitalization": 2666.11,
+      "meds": 490.46,
+      "meals": 77.96
+    },
+    "Aug": {
+      "services": 2455.04,
+      "hospitalization": 2872.62,
+      "meds": 497.81,
+      "meals": 84.57
+    },
+    "Sep": {
+      "services": 2783.74,
+      "hospitalization": 4905.79,
+      "meds": 1007.66,
+      "meals": 119.99
+    },
+    "Oct": {
+      "services": 2425.8,
+      "hospitalization": 5755.59,
+      "meds": 1169.79,
+      "meals": 116.26
+    },
+    "Nov": {
+      "services": 2682.37,
+      "hospitalization": 4025.76,
+      "meds": 835.96,
+      "meals": 71.03
+    },
+    "Dec": {
+      "services": 2163.34,
+      "hospitalization": 3980.37,
+      "meds": 835.24,
+      "meals": 87.33
+    }
+  },
+  "2024": {
+    "general": {
+      "services": 2423.28,
+      "hospitalization": 3509.37,
+      "meds": 635.19,
+      "meals": 82.81
+    },
+    "Jan": {
+      "services": 2726.34,
+      "hospitalization": 3456.4,
+      "meds": 611.99,
+      "meals": 77.85
+    },
+    "Feb": {
+      "services": 2843.91,
+      "hospitalization": 2466.64,
+      "meds": 471.82,
+      "meals": 71.04
+    },
+    "Mar": {
+      "services": 2388.6,
+      "hospitalization": 3666.03,
+      "meds": 599.62,
+      "meals": 74.72
+    },
+    "Apr": {
+      "services": 2031.33,
+      "hospitalization": 3926.11,
+      "meds": 737.11,
+      "meals": 110.7
+    },
+    "May": {
+      "services": 2268.63,
+      "hospitalization": 3677.9,
+      "meds": 693.4,
+      "meals": 76.6
+    },
+    "Jun": {
+      "services": 3049.3,
+      "hospitalization": 4967.39,
+      "meds": 880.87,
+      "meals": 102.35
+    },
+    "Jul": {
+      "services": 2810.23,
+      "hospitalization": 4046.33,
+      "meds": 723.53,
+      "meals": 78.09
+    },
+    "Aug": {
+      "services": 2159.1,
+      "hospitalization": 3354.05,
+      "meds": 698.9,
+      "meals": 70.47
+    },
+    "Sep": {
+      "services": 1908.47,
+      "hospitalization": 2487.71,
+      "meds": 382.3,
+      "meals": 72.78
+    },
+    "Oct": {
+      "services": 1898.35,
+      "hospitalization": 2781.67,
+      "meds": 534.8,
+      "meals": 74.88
+    },
+    "Nov": {
+      "services": 2461.64,
+      "hospitalization": 3107.53,
+      "meds": 506.92,
+      "meals": 91.81
+    },
+    "Dec": {
+      "services": 2724.09,
+      "hospitalization": 4619.28,
+      "meds": 889.72,
+      "meals": 96.59
+    }
+  },
+  "2025": {
+    "general": {
+      "services": 2419.87,
+      "hospitalization": 4008.59,
+      "meds": 793.47,
+      "meals": 89.75
+    },
+    "Jan": {
+      "services": 3017.05,
+      "hospitalization": 4144.25,
+      "meds": 807.65,
+      "meals": 86.72
+    },
+    "Feb": {
+      "services": 1857.0,
+      "hospitalization": 4512.69,
+      "meds": 910.88,
+      "meals": 80.7
+    },
+    "Mar": {
+      "services": 2664.75,
+      "hospitalization": 4204.55,
+      "meds": 871.99,
+      "meals": 100.95
+    },
+    "Apr": {
+      "services": 2295.79,
+      "hospitalization": 3811.55,
+      "meds": 845.33,
+      "meals": 78.61
+    },
+    "May": {
+      "services": 2393.86,
+      "hospitalization": 3878.49,
+      "meds": 757.52,
+      "meals": 88.24
+    },
+    "Jun": {
+      "services": 1866.76,
+      "hospitalization": 4701.82,
+      "meds": 950.03,
+      "meals": 86.44
+    },
+    "Jul": {
+      "services": 2578.88,
+      "hospitalization": 4223.05,
+      "meds": 768.6,
+      "meals": 101.91
+    },
+    "Aug": {
+      "services": 2579.38,
+      "hospitalization": 3763.41,
+      "meds": 634.3,
+      "meals": 105.28
+    },
+    "Sep": {
+      "services": 2143.63,
+      "hospitalization": 2870.55,
+      "meds": 473.79,
+      "meals": 79.22
+    },
+    "Oct": {
+      "services": 2616.69,
+      "hospitalization": 4193.85,
+      "meds": 923.62,
+      "meals": 97.82
+    },
+    "Nov": {
+      "services": 2374.33,
+      "hospitalization": 4581.68,
+      "meds": 917.89,
+      "meals": 97.78
+    },
+    "Dec": {
+      "services": 2667.64,
+      "hospitalization": 2951.92,
+      "meds": 603.24,
+      "meals": 71.95
+    }
+  },
+  "2026": {
+    "general": {
+      "services": 2464.2,
+      "hospitalization": 4615.46,
+      "meds": 858.46,
+      "meals": 90.66
+    },
+    "Jan": {
+      "services": 2526.63,
+      "hospitalization": 3607.77,
+      "meds": 643.89,
+      "meals": 75.54
+    },
+    "Feb": {
+      "services": 2632.1,
+      "hospitalization": 5524.89,
+      "meds": 1047.82,
+      "meals": 98.92
+    },
+    "Mar": {
+      "services": 2204.48,
+      "hospitalization": 5278.72,
+      "meds": 1020.15,
+      "meals": 106.02
+    },
+    "Apr": {
+      "services": 2309.04,
+      "hospitalization": 3739.6,
+      "meds": 777.76,
+      "meals": 76.81
+    },
+    "May": {
+      "services": 2705.52,
+      "hospitalization": 5167.9,
+      "meds": 771.88,
+      "meals": 102.26
+    },
+    "Jul": {
+      "services": 3383.5,
+      "hospitalization": 617.0,
+      "meds": 33.5,
+      "meals": 0.0
+    }
+  }
+}

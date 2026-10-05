@@ -1,0 +1,3 @@
+        @fhe.compiler({"arr": "encrypted"})
+        def _fhe_sum_los(arr):
+            return np.sum(arr)
